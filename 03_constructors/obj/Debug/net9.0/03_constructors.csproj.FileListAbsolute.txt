@@ -1,0 +1,14 @@
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\bin\Debug\net9.0\03_constructors.exe
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\bin\Debug\net9.0\03_constructors.deps.json
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\bin\Debug\net9.0\03_constructors.runtimeconfig.json
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\bin\Debug\net9.0\03_constructors.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\bin\Debug\net9.0\03_constructors.pdb
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\obj\Debug\net9.0\03_constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\obj\Debug\net9.0\03_constructors.AssemblyInfoInputs.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\obj\Debug\net9.0\03_constructors.AssemblyInfo.cs
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\obj\Debug\net9.0\03_constructors.csproj.CoreCompileInputs.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\obj\Debug\net9.0\03_constructors.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\obj\Debug\net9.0\refint\03_constructors.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\obj\Debug\net9.0\03_constructors.pdb
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\obj\Debug\net9.0\03_constructors.genruntimeconfig.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\03_constructors\obj\Debug\net9.0\ref\03_constructors.dll

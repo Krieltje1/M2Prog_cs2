@@ -1,0 +1,14 @@
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\bin\Debug\net9.0\07_properties.exe
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\bin\Debug\net9.0\07_properties.deps.json
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\bin\Debug\net9.0\07_properties.runtimeconfig.json
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\bin\Debug\net9.0\07_properties.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\bin\Debug\net9.0\07_properties.pdb
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\obj\Debug\net9.0\07_properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\obj\Debug\net9.0\07_properties.AssemblyInfoInputs.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\obj\Debug\net9.0\07_properties.AssemblyInfo.cs
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\obj\Debug\net9.0\07_properties.csproj.CoreCompileInputs.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\obj\Debug\net9.0\07_properties.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\obj\Debug\net9.0\refint\07_properties.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\obj\Debug\net9.0\07_properties.pdb
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\obj\Debug\net9.0\07_properties.genruntimeconfig.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\07_properties\obj\Debug\net9.0\ref\07_properties.dll

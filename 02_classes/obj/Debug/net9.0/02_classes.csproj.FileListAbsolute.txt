@@ -1,0 +1,14 @@
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\bin\Debug\net9.0\02_classes.exe
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\bin\Debug\net9.0\02_classes.deps.json
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\bin\Debug\net9.0\02_classes.runtimeconfig.json
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\bin\Debug\net9.0\02_classes.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\bin\Debug\net9.0\02_classes.pdb
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\obj\Debug\net9.0\02_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\obj\Debug\net9.0\02_classes.AssemblyInfoInputs.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\obj\Debug\net9.0\02_classes.AssemblyInfo.cs
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\obj\Debug\net9.0\02_classes.csproj.CoreCompileInputs.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\obj\Debug\net9.0\02_classes.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\obj\Debug\net9.0\refint\02_classes.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\obj\Debug\net9.0\02_classes.pdb
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\obj\Debug\net9.0\02_classes.genruntimeconfig.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\02_classes\obj\Debug\net9.0\ref\02_classes.dll
