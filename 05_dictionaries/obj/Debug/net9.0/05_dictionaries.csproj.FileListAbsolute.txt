@@ -1,0 +1,15 @@
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\bin\Debug\net9.0\05_dictionaries.exe
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\bin\Debug\net9.0\05_dictionaries.deps.json
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\bin\Debug\net9.0\05_dictionaries.runtimeconfig.json
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\bin\Debug\net9.0\05_dictionaries.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\bin\Debug\net9.0\05_dictionaries.pdb
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\obj\Debug\net9.0\05_dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\obj\Debug\net9.0\05_dictionaries.AssemblyInfoInputs.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\obj\Debug\net9.0\05_dictionaries.AssemblyInfo.cs
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\obj\Debug\net9.0\05_dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\obj\Debug\net9.0\05_dictionaries.sourcelink.json
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\obj\Debug\net9.0\05_dictionaries.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\obj\Debug\net9.0\refint\05_dictionaries.dll
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\obj\Debug\net9.0\05_dictionaries.pdb
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\obj\Debug\net9.0\05_dictionaries.genruntimeconfig.cache
+C:\Users\kjelt\Documents\school_opdrachten\M2Prog_cs2\05_dictionaries\obj\Debug\net9.0\ref\05_dictionaries.dll
